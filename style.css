@@ -1045,3 +1045,8 @@ h4 {
     max-width: 1000px;
     width: 200%;
 }
+
+.modified_text
+{
+    font-size: 20px;
+}
